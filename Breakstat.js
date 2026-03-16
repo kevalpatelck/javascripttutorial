@@ -19,7 +19,7 @@ function Breakstat() {
 
     //for loop
     for (let i = 0; i < virat; i++) {
-            
+
     }
 
 
@@ -49,8 +49,6 @@ function Breakstat() {
 
 
 
-    console.log(keval);
-    console.log(text);
 
 
 
