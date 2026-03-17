@@ -11,6 +11,7 @@ const Example = (hari) => {
     name: "keval",
     age: 15
   }
+  console.log(keval, "keval");
 
 
   // const myFather = new Person("John", "Doe", 50, "blue");
