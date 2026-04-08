@@ -66,7 +66,7 @@ const Example = (hari) => {
       <p id='keval'>this is my first paragraph.</p>
       {/* <p id='keval'>this is my second paragraph.</p> */}
       <button id='button' onChange={() => clickme()} >Click me</button>
-      <p>{day}hello</p>
+      <p>{day}hello keval</p>
       <p>{time}</p>
       <p>my name is {keval.name + keval.age} and my age is{keval.age}</p>
       {/* <label>{name}</label> */}
